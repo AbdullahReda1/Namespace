@@ -1,7 +1,7 @@
 # Namespace
 
 
-# C++ Namespace and Inline Namespace Example
+## C++ Namespace and Inline Namespace Example
 
 This C++ program demonstrates the usage of namespaces, classes, functions, and inline namespaces.
 
