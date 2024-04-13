@@ -18,6 +18,8 @@ namespace Data
 
         cout << endl;
         cout << "Hello World!";
+		
+		return 0;
     }
 
     /* Class of Data name space */
